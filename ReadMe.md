@@ -1,5 +1,5 @@
 ## Comandos Básicos do Git / Gitflow
-Este repositório está relacionado a playlist do meu canal no youtube onde ensino os comandos básicos do git e do gitflow.
+Este repositório está relacionado a [playlist](https://www.youtube.com/playlist?list=PLQvwSWYdLssx2xmuBSpOEVTjb2SQvR1_b) do meu canal no youtube onde ensino os comandos básicos do git e do gitflow.
 
 ## GitFlow e seu fluxo de Trabalho
 ![](assets/images/capa_gitflow.png)
